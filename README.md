@@ -2,6 +2,9 @@
 # Rajarshi_Guchhait_PM_Accelerator_Data_Scientist
 
 Rajarshi Guchhait's Technical Assessment for the role of Data Scientist at PM Accelerator
+### Details about the files
+* **Main Notebook for the technical assessment**: Rajarshi_Guchhait_DS.ipynb
+* **Project Report/Presentation**: report_Rajarshi_Guchhait_data_science.pptx
 
 ## Mission of PM Accelerator
 
